@@ -1,2 +1,2 @@
-# JPMC Task 1
-Starter repo for task 1 of the JPMC software engineering program
+# JPMC Task 3
+This repository was used to complete task 1 of JPMC's Software Engineering Forage program, where I was given most of this repository, and told to make certain changes to meet the requirements.
